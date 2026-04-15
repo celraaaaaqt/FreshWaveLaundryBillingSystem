@@ -11,8 +11,8 @@ public class LaundryBillingSystem {
 	
 	//static to allow us call these to functions or main class
 	static int transactionCounter = 1001;
-	static String USERNAME = "admin";
-	static String PASSWORD = "1234";
+	static String USERNAME = "FreshWave";
+	static String PASSWORD = "FreshWavePassword11";
 	static boolean loggedIn = false;
 
 	public static void main(String[] args) {
